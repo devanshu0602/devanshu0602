@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <h1 align="right">Hi 👋, I'm Devanshu Gupta</h1>
 <h3 align="center">An ML and tech enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshu0602&label=Profile%20views&color=0e75b6&style=flat" alt="devanshu0602" /> </p>
-
 - 🔭 I’m currently working on **Python, JavaScript**
 
 - 🌱 I’m currently learning **Tensorflow, TypeScript**
