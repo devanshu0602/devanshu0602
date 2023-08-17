@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Devanshu Gupta</h1>
 <h3 align="center">An ML and tech enthusiast</h3>
 
-- 🔭 I’m currently working on **Python, JavaScript**
+- 🔭 I’m currently working on: **Python, JavaScript**
 
-- 🌱 I’m currently learning **Tensorflow, TypeScript**
+<!--- 🌱 I’m currently learning **Tensorflow, TypeScript**-->
 
-- 📫 Reach me at **devanshugupta0602@gmail.com**
+- 📫 Reach me at: **devanshugupta0602@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
