@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Tensorflow, TypeScript**
 
-- 📫 How to reach me **devanshugupta0602@gmail.com**
+- 📫 Reach me at **devanshugupta0602@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
