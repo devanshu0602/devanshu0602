@@ -13,14 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
 
 <h1 align="center">Hi 👋, I'm Devanshu Gupta</h1>
 <h3 align="center">An ML and tech enthusiast</h3>
 
 - 🔭 I’m currently working on: **Python, JavaScript**
 
-<!--- 🌱 I’m currently learning **Tensorflow, TypeScript**-->
+- 🌱 I’m currently learning **Tensorflow, TypeScript**
 
 - 📫 Reach me at: **devanshugupta0602@gmail.com**
 
@@ -39,3 +40,8 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=devanshu0602&show_icons=true&locale=en" alt="devanshu0602" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshu0602&" alt="devanshu0602" /></p>
+
+
+
+
+-->
