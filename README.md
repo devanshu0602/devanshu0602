@@ -55,5 +55,3 @@ Here are some ideas to get you started:
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshu0602&show_icons=true&locale=en&layout=compact" alt="devanshu0602" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshu0602&" alt="devanshu0602" /></p>
