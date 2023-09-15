@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there 👋, I'm Devanshu Gupta</h1>
 <h3 align="center">Computer Science Student</h3>
 
-
+<br>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshu0602&label=Profile%20views&color=0e75b6&style=flat" alt="devanshu0602" /> </p>
