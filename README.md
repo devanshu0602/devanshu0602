@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there 👋, I'm Devanshu Gupta</h1>
 <h3 align="center">Computer Science Student</h3>
 
-<br>
+
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshu0602&label=Profile%20views&color=0e75b6&style=flat" alt="devanshu0602" /> </p>
@@ -34,14 +34,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Python, JavaScript**
 - 📫 How to reach me **devanshugupta0602@gmail.com**
 
-<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/devanshu0602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devanshu0602" height="30" width="40" /></a> <a href="https://www.hackerrank.com/devanshu0602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devanshu0602" height="30" width="40" /></a> <a href="https://codeforces.com/profile/devanshu0602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devanshu0602" height="30" width="40" /></a> <a href="https://www.leetcode.com/devanshu0602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devanshu0602" height="30" width="40" /></a>
 </p>
 
-<br>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -64,11 +64,12 @@ Here are some ideas to get you started:
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<br>
+
 
 <p align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshu0602&show_icons=true&locale=en&layout=compact" alt="devanshu0602" height="190"/></p>
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshu0602&" alt="devanshu0602"/></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshu0602&show_icons=true&locale=en&layout=compact" alt="devanshu0602"/></p>
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshu0602&" alt="devanshu0602"/></p>
 </p>
 
 <!--
