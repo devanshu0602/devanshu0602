@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Devanshu Gupta</h1>
-<h3 align="center">An ML and tech enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Devanshu Gupta</h1>
+<h3 align="center">Computer Science Engineer</h3>
 
-- 🔭 I’m currently working on: **Python, JavaScript**
+- 🔭 I’m currently working on: **Machine Learning, Deep Learning**
 <!--
 - 🌱 I’m currently learning **Tensorflow**
 -->
