@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **Machine Learning & Deep Learning**
+<!--
 - 🌱 I’m currently learning **Python, JavaScript**
+-->
 - 📫 How to reach me **devanshugupta0602@gmail.com**
 
 <hr/>
