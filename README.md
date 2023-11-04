@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!--
 - 🌱 I’m currently learning **Python, JavaScript**
 -->
-- 📫 How to reach me **devanshugupta0602@gmail.com**
+- 📫 Let's get in touch: **devanshugupta0602@gmail.com**
 
 <hr/>
 
